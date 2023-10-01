@@ -1,5 +1,5 @@
 ---
-title: Conference talk on internal higher topos theory
+title: Conference talk on internal higher category theory
 
 event: Young Topologists Meeting 2022
 event_url: https://www.math.ku.dk/english/calendar/events/ytm2022/
