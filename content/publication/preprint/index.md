@@ -22,7 +22,6 @@ abstract: We develop some basic concepts in the theory of higher categories inte
 
 links:
 url_pdf: https://arxiv.org/pdf/2103.17141.pdf
----
 
 title: "Limits and colimits in internal higher category theory"
 authors:
