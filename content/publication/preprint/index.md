@@ -23,6 +23,7 @@ abstract: We develop some basic concepts in the theory of higher categories inte
 links:
 url_pdf: https://arxiv.org/pdf/2103.17141.pdf
 
+---
 title: "Limits and colimits in internal higher category theory"
 authors:
 - admin
@@ -46,8 +47,8 @@ abstract: We develop a number of basic concepts in the theory of categories inte
 
 links:
 url_pdf: https://arxiv.org/pdf/2111.14495.pdf
----
 
+---
 title: "Cocartesian fibrations and straightening internal to an infinity-topos"
 authors:
 - admin
