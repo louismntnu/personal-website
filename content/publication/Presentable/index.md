@@ -15,7 +15,7 @@ publishDate: "2022-09-12T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Presentable categories internal to an infinity-topos"
+publication: "ArXiv preprint"
 publication_short: ""
 
 abstract: We develop the theory of presentable categories internal to an infinity-topos B. We provide several characterisations of these, including a description in terms of the assoiated sheaves of infinity-categories as well as an internal analogue of the Lurie-Simpson characterisation of presentable infinity-categories. We furthermore establish various structural results about presentable internal categories, such as adjoint functor theorems and a symmetric monoidal structure.

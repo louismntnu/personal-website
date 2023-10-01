@@ -14,7 +14,7 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cocartesian fibrations and straightening internal to an infinity-topos,"
+publication: "ArXiv preprint"
 publication_short: ""
 
 abstract: We define and study cartesian and cocartesian fibrations between categories internal to an infinity-topos and prove a straightening equivalence in this context.
