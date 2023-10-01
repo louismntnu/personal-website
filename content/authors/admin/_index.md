@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: PhD in Mathematics
-      institution: Norwegian University of Science and Technologz
+      institution: Norwegian University of Science and Technology
       year: 2024
     - course: MSc in Mathematics
       institution: Freie Universität Berlin
@@ -68,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a forth year PhD student in the Department of Mathematical Sciences at the Norwegian University of Science and Technology in Trondheim, Norway, were I work on topics in homotopy theory and higher category theory. My supervisor is Rune Haugseng. I hold an MSc and a BSc in Mathematics from Freie Universität Berlin.
+I am a forth year PhD student in the Department of Mathematical Sciences at the Norwegian University of Science and Technology in Trondheim, Norway. My supervisor is Rune Haugseng. I hold an MSc and a BSc in Mathematics from Freie Universität Berlin.
 {style="text-align: justify;"}
