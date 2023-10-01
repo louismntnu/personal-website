@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: "Presentable categories internal to an infinity-topos"
 publication_short: ""
 
-abstract: We develop some basic concepts in the theory of higher categories internal to an arbitrary infinity-topos. We define internal left and right fibrations and prove a version of the Grothendieck construction and of Yoneda's lemma for internal categories.
+abstract: We develop the theory of presentable categories internal to an infinity-topos B. We provide several characterisations of these, including a description in terms of the associated sheaves of infinity-categories as well as an internal analogue of the Lurie-Simpson characterisation of presentable infinity-categories. For the latter, we develop a theory of internal filteredness and study the associated notion of accessible internal categories. We furthermore establish various structural results about presentable internal categories, such as adjoint functor theorems and a symmetric monoidal structure. We use the latter to identify the infinity-category of presentable infinity-categories which are tensored over B as a full subcategory of the infinity-category of presentable internal categories in B. We provide two applications of our framework: in the first, we derive a general version of Diaconescu's theorem for infinity-topoi. In the second, we characterise dualisable objects in the infinity-category of modules over an E-infinity-ring in B as internally compact objects.
 
 
 links:
