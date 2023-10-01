@@ -28,13 +28,6 @@ featured: false
 
 links:
 url_pdf: https://arxiv.org/pdf/2103.17141.pdf
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
