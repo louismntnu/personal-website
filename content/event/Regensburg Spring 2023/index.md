@@ -1,7 +1,7 @@
 ---
 title: Seminar talk on proper morphisms of infinity-topoi
 
-event: AG-Seminar Cisinski
+event: AG Seminar Cisinski
 event_url: https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=AG-Seminar_WS2021/22:
 
 location: Universität Regensburg
