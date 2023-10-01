@@ -1,8 +1,8 @@
 ---
-title: Seminar talk on internal higher category theory
+title: Seminar talk on proper morphisms of infinity-topoi
 
-event: Seminar Higher Topoi and Exodromy
-event_url: https://cisinski.app.uni-regensburg.de/SeminarWS21.html
+event: AG-Seminar Cisinski
+event_url: https://sfb-higher-invariants.app.uni-regensburg.de/index.php?title=AG-Seminar_WS2021/22:
 
 location: Universität Regensburg
 
@@ -11,7 +11,7 @@ location: Universität Regensburg
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-11-25T12:00:00Z'
+date: '2023-02-09T12:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
