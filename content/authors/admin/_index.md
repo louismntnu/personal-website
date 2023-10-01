@@ -15,7 +15,7 @@ role: PhD student in mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Norwegian University for Science and Technology
+  - name: Norwegian University of Science and Technology
     url: https://www.ntnu.no/
 
 # Short bio (displayed in user profile at end of posts)
