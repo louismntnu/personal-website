@@ -27,7 +27,7 @@ bio: I am a forth year PhD student in the Department of Mathematical Sciences at
 interests:
   - Homotopy theory
   - Higher category theory
-  - Molecular dynamics
+  - Stochastic modelling
   - Machine learning
 
 # Education to show in About widget
