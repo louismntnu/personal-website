@@ -11,7 +11,7 @@ last_name: Martini
 superuser: true
 
 # Role/position/tagline
-role: PhD student in mathematics
+role: PhD fellow in mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
