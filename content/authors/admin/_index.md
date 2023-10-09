@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Mathematics
       institution: Norwegian University of Science and Technology
-      year: 2024
+      year: 2024 (expected)
     - course: MSc in Mathematics
       institution: Freie Universität Berlin
       year: 2020
@@ -65,8 +65,8 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-I am a forth year PhD student in the Department of Mathematical Sciences at the Norwegian University of Science and Technology in Trondheim, Norway. My supervisor is Rune Haugseng. I hold an MSc and a BSc in Mathematics from Freie Universität Berlin.
+I am a forth year PhD student in the Department of Mathematical Sciences at the Norwegian University of Science and Technology in Trondheim, Norway. My supervisor is Rune Haugseng. I hold an MSc and a BSc in Mathematics as well as a BSc in Biochemistry from Freie Universität Berlin.
 {style="text-align: justify;"}
