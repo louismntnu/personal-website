@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Minimal
-  theme_night: Minimal
+  theme_day: Aloe
+  theme_night: Aloe
   font: Custom
   font_size: L
 
