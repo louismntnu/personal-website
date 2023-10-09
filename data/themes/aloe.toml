@@ -23,6 +23,6 @@ name = "Aloe"
   link_hover = "#6AD5AB"
 
   # Backgrounds
-  background = "#rgb(70, 70, 70)"
-  home_section_odd = "#rgb(70, 70, 70)"
-  home_section_even = "rbg(67, 67, 67)"
+  background = "rgb(60, 60, 60)"
+  home_section_odd = "rgb(60, 60, 60)"
+  home_section_even = "rbg(57, 57, 57)"
