@@ -21,3 +21,6 @@ name = "Aloe"
 
   link = "#6AD5AB"
   link_hover = "#6AD5AB"
+
+  # Backgrounds
+  background = "#353A38"
