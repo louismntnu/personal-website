@@ -5,7 +5,7 @@ name = "Custom"
 google_fonts = ""
 
 # Font families
-heading_font = "Libertinus Serif Display"
+heading_font = "Libertinus Sans Bold"
 body_font = "Libertinus Sans Regular"
-nav_font = "Libertinus Serif Display"
+nav_font = "Libertinus Sans Bold"
 mono_font = "Libertinus Sans Regular"
