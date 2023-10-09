@@ -26,9 +26,13 @@
     src: local('Libertinus Serif Display'), url('/fonts/LibertinusSerifDisplay-Regular.woff2') format('woff2');
   }
 
-.portrait-title h2 {
-    font-size: 3em;
+.portrait-title h3 {
+    font-size: 1rem;
     font-weight: 300;
-    color: #000;
-    margin: 20px 0 10px;
+    color: rgba(0, 0, 0, 0.54);
+    margin: 0 0 10px;
   }
+
+h3 {
+  font-family: $sta-font-nav, sans-serif;
+}
