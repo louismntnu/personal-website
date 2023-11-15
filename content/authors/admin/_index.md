@@ -19,7 +19,7 @@ organizations:
     url: https://www.ntnu.no/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a forth year PhD student in the Department of Mathematical Sciences at the Norwegian University of Science and Technology in Trondheim, Norway.
+bio: I am a fourth year PhD student in the Department of Mathematical Sciences at the Norwegian University of Science and Technology in Trondheim, Norway.
 
 
 
