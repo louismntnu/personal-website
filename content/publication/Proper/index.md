@@ -18,8 +18,8 @@ publication_types: ["article"]
 publication: "ArXiv preprint"
 publication_short: ""
 
-abstract: We characterise proper morphisms of infinity-topoi in terms of a relativised notion of compactness. We show that a geometric morphism of infinity-topoi is proper if and only if it commutes with colimits indexed by filtered internal infinity-categories in the target. In particular, our result implies that for any infinity-topos, the global sections functor is proper if and only if it preserves filtered colimits. 
-As an application, we show that every proper and separated map of topological spaces gives rise to a proper morphism between the associated sheaf infinity-topoi.
+abstract: We characterise proper morphisms of infinity-topoi in terms of a relativised notion of compactness. We show that a geometric morphism of infinity-topoi is proper if and only if it commutes with colimits indexed by filtered internal infinity-categories in the target. In particular, our result implies that for any infinity-topos, the global sections functor is proper if and only if it preserves filtered colimits.
+
 
 links:
 url_pdf: https://arxiv.org/pdf/2311.08051.pdf
