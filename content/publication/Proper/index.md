@@ -2,6 +2,7 @@
 title: "Proper morphisms of infinity-topoi"
 authors:
 - admin
+- Sebastian Wolf
 date: "2023-11-15T00:00:00Z"
 doi: ""
 
