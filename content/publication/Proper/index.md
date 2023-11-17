@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: "ArXiv preprint"
 publication_short: ""
 
-abstract: Test
+abstract: We characterise proper morphisms of infinity-topoi in terms of a relativised notion of compactness: we show that a geometric morphism of infinity-topoi is proper if and only if it commutes with colimits indexed by filtered internal infinity-categories in the target. 
 
 
 #We characterise proper morphisms of infinity-topoi in terms of a relativised notion of compactness: we #show that a geometric morphism of infinity-topoi is proper if and only if it commutes with colimits #indexed by filtered internal infinity-categories in the target. In particular, our result implies that for any #infinity-topos, the global sections functor is proper if and only if it preserves filtered colimits. 
